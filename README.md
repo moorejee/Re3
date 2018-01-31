@@ -1,6 +1,7 @@
 # Re3
 ![](demo/output.gif)
 
+This repository is a work of Daniel Gordon and other authors of "Re3 : Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects(https://scholar.google.com/citations?user=MlxWsaIAAAAJ&hl=en)[Profile of Daniel Gordon]. This paper is really good and I have cloned it from his gitlab to make it available to everyone on github. 
 
 Re3 is a real-time recurrent regression tracker. It offers accuracy and robustness similar to other state-of-the-art trackers while operating at 150 FPS. For more details, contact xkcd@cs.washington.edu. This repository implements the training and testing procedure from https://arxiv.org/pdf/1705.06368.pdf. A sample of the tracker can be found here: https://youtu.be/RByCiOLlxug.
 
