@@ -1,0 +1,11 @@
+*.caffemodel
+*.jpg
+*~
+*.swp
+*.pyc
+logs/
+demo/data/
+labels/
+*.mp4
+*.json
+*venv
